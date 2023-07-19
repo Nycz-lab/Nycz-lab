@@ -13,7 +13,8 @@
 
 ### Contact:
 
-
+[![website](./img/discord.svg)](https://discordapp.com/users/172978817462173696)
+&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Nycz1001#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Nycz1001#gh-dark-mode-only)
 &nbsp;&nbsp;
